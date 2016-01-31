@@ -6,3 +6,5 @@
 - [arkency/rails_event_store](https://github.com/arkency/rails_event_store/tree/master/lib/rails_event_store)
   - [arkency/ruby_event_store](https://github.com/arkency/ruby_event_store)
 - [rails/actionpack-action_caching](https://github.com/rails/actionpack-action_caching)
+- [rocketjob/rails_semantic_logger](https://github.com/rocketjob/rails_semantic_logger)
+  - [rocketjob/semantic_logger](https://github.com/rocketjob/semantic_logger)
