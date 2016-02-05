@@ -14,3 +14,5 @@
 - [typicode/json-server](https://github.com/typicode/json-server)
 - [r7kamura/rack-json_schema](https://github.com/r7kamura/rack-json_schema)
 - [splitrb/split](https://github.com/splitrb/split)
+- [chadrem/tribe](https://github.com/chadrem/tribe)
+  - [chadrem/workers](https://github.com/chadrem/workers)
