@@ -17,3 +17,4 @@
 - [amatsuda/motorhead](https://github.com/amatsuda/motorhead)
 - [chadrem/tribe](https://github.com/chadrem/tribe)
   - [chadrem/workers](https://github.com/chadrem/workers)
+- [instructure/switchman](https://github.com/instructure/switchman)
