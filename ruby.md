@@ -13,6 +13,7 @@
 - [instructure/switchman](https://github.com/instructure/switchman)
 - [makandra/query_diet](https://github.com/makandra/query_diet)
   - 画面表示のための 1 リクエストで何回 SQL が投げられているかを画面に表示してくれる。
+  - widget ぽいのを画面に表示する参考になる。
 
 ## Logging
 
