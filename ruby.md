@@ -11,6 +11,8 @@
 - [chadrem/tribe](https://github.com/chadrem/tribe)
   - [chadrem/workers](https://github.com/chadrem/workers)
 - [instructure/switchman](https://github.com/instructure/switchman)
+- [makandra/query_diet](https://github.com/makandra/query_diet)
+  - 画面表示のための 1 リクエストで何回 SQL が投げられているかを画面に表示してくれる。
 
 ## Logging
 
