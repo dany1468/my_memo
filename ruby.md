@@ -29,3 +29,4 @@
 - [amatsuda/motorhead](https://github.com/amatsuda/motorhead)
 - [lucaong/ablab](https://github.com/lucaong/ablab)
   - AB テスト用のモジュールはベタに実装するが、トラッキング機能と確認用の View が用意されてる
+  - トラッキング情報のストア先ははメモリか Redis か選べる
