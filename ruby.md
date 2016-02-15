@@ -14,6 +14,10 @@
 - [makandra/query_diet](https://github.com/makandra/query_diet)
   - 画面表示のための 1 リクエストで何回 SQL が投げられているかを画面に表示してくれる。
   - widget ぽいのを画面に表示する参考になる。
+- [zendesk/active_record_inherit_assoc](https://github.com/zendesk/active_record_inherit_assoc) 
+  - `belongs_to`, `has_many,has_one` 関連のそれぞれで inherit_from or inherit のキーワードが指定できる。親となるオブジェクトを渡して子を生成すると、値を親からそのままコピーしてくれる。親と子の関連として、継承指定したカラムでの絞込も可能にしてくれる。
+  - まだ使いみちがピンときてないが、なんか面白そう
+  - 実装は ActiveRecord に問答無用でパッチあてる感じ
 
 ## Logging
 
