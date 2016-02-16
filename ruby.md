@@ -18,6 +18,11 @@
   - `belongs_to`, `has_many,has_one` 関連のそれぞれで inherit_from or inherit のキーワードが指定できる。親となるオブジェクトを渡して子を生成すると、値を親からそのままコピーしてくれる。親と子の関連として、継承指定したカラムでの絞込も可能にしてくれる。
   - まだ使いみちがピンときてないが、なんか面白そう
   - 実装は ActiveRecord に問答無用でパッチあてる感じ
+- [ridiculous/usable](https://github.com/ridiculous/usable)
+  - include した module のうち、`usable` と `only` キーワードで指定したものだけを include できる
+  - include する module のさらに inner module を同様に include できる。（その場合は親 module のメソッドは全て include されるし、名前が被ると親が優先される）
+  - `only` の実装方法は `remove_method` を使っている。
+  - 設計として微妙というのはあるが、確かに複数 class に include したいメソッドのうち、ここではこれだけというのはやりたいことあるなぁ。
 
 ## Logging
 
