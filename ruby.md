@@ -39,3 +39,11 @@
 - [lucaong/ablab](https://github.com/lucaong/ablab)
   - AB テスト用のモジュールはベタに実装するが、トラッキング機能と確認用の View が用意されてる
   - トラッキング情報のストア先ははメモリか Redis か選べる
+
+## Architecture
+
+- [Trailblazer](http://trailblazer.to/)
+- [xo8bit/faat](https://github.com/xo8bit/faat)
+  - service と form を提供
+  - 実装は form は virtus, service は特に何もしない（method_missing とかはする）で最低限
+  - 小さな generator の実装の参考に
