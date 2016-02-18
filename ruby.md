@@ -23,6 +23,10 @@
   - include する module のさらに inner module を同様に include できる。（その場合は親 module のメソッドは全て include されるし、名前が被ると親が優先される）
   - `only` の実装方法は `remove_method` を使っている。
   - 設計として微妙というのはあるが、確かに複数 class に include したいメソッドのうち、ここではこれだけというのはやりたいことあるなぁ。
+- [twitter/secureheaders](https://github.com/twitter/secureheaders)
+  - Content Security Policy 等のブラウザの機能で脆弱性を軽減するためのヘッダをブラウザに合わせてだしてくれる
+  - Github の例 https://github.com/blog/1477-content-security-policy
+  - 3 系になって rack middleware に書きなおされた模様
 
 ## Logging
 
