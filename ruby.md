@@ -27,6 +27,9 @@
   - Content Security Policy 等のブラウザの機能で脆弱性を軽減するためのヘッダをブラウザに合わせてだしてくれる
   - Github の例 https://github.com/blog/1477-content-security-policy
   - 3 系になって rack middleware に書きなおされた模様
+- [tkbrigham/nextable](https://github.com/tkbrigham/nextable)
+  - id 以外の field でも null ではない next record を取ることができる
+  - 検索条件を適用した上で付きで next record を取得する `filter` という機能もある
 
 ## Logging
 
