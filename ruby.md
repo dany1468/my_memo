@@ -30,6 +30,11 @@
 - [tkbrigham/nextable](https://github.com/tkbrigham/nextable)
   - id 以外の field でも null ではない next record を取ることができる
   - 検索条件を適用した上で付きで next record を取得する `filter` という機能もある
+- [Angelmmiguel/pretty_routes](https://github.com/Angelmmiguel/pretty_routes)
+  - ルーティングをキレイに見れる view を提供してくれる。以前は [sextant](https://github.com/schneems/sextant) というのがあった。Rails4 からはデフォでも十分キレイに見せてくれる。
+  - `ActionDispatch::Routing::RoutesInspector` を使って `Rails.application.routes.routes` で取得できるルーティング情報から必要な情報を抽出し整形している。
+  - 一般的にはフォーマッタを書いて、[CSV](http://qiita.com/ayasuda/items/a2b0c818e8b5efeb44cf) とか [Markdown](http://tkymtk.hatenablog.com/entry/2013/12/22/100706) とかにしてる模様。
+  - `ActionDispatch::Routing::RoutesInspector` の使い方として [collect_routes](http://apidock.com/rails/ActionDispatch/Routing/RoutesInspector/collect_routes) を直接呼んでいるのが面白い。
 
 ## Logging
 
