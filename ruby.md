@@ -36,6 +36,8 @@
   - 一般的にはフォーマッタを書いて、[CSV](http://qiita.com/ayasuda/items/a2b0c818e8b5efeb44cf) とか [Markdown](http://tkymtk.hatenablog.com/entry/2013/12/22/100706) とかにしてる模様。
   - `ActionDispatch::Routing::RoutesInspector` の使い方として [collect_routes](http://apidock.com/rails/ActionDispatch/Routing/RoutesInspector/collect_routes) を直接呼んでいるのが面白い。
 - [zeisler/active_enumerable](https://github.com/zeisler/active_enumerable)
+  - おー、面白い。`Base` で `Enumerable` をいきなり `to_a` しちゃってるように見えるが、それはいいのだろうか。
+  - `english_dsl` は、英語なれてしないので名前付けの参考になります。
 
 ## Logging
 
