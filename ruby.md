@@ -38,6 +38,12 @@
 - [zeisler/active_enumerable](https://github.com/zeisler/active_enumerable)
   - おー、面白い。`Base` で `Enumerable` をいきなり `to_a` しちゃってるように見えるが、それはいいのだろうか。
   - `english_dsl` は、英語なれてしないので名前付けの参考になります。
+- [statusify/statusify](https://github.com/statusify/statusify)
+  - サービスのインシデント等の発生時に別アプリとしてユーザーに通知できる。インシデントの登録等も基本は UI からする想定。
+  - サービスのユーザーはこのページに来ると、メール通知を受け取るように email で activation できる。（その時に確認メールが来る）
+  - インシデント発生時にはもメールが送らてくる。
+  - 各通知に加えて、インシデントのキャッシュを作る処理も Sidekiq で非同期に実行される。
+  - schema.rb に `delayed_jobs` というテーブルがあるが、これは。。。ゴミかな。
 
 ## Logging
 
