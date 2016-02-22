@@ -44,6 +44,8 @@
   - インシデント発生時にはもメールが送らてくる。
   - 各通知に加えて、インシデントのキャッシュを作る処理も Sidekiq で非同期に実行される。
   - schema.rb に `delayed_jobs` というテーブルがあるが、これは。。。ゴミかな。
+- [girishso/pluck_to_hash](https://github.com/girishso/pluck_to_hash) 
+  - pluck の結果を多重配列ではなくて、ちゃんと hash として返してくれる。実装も割りと愚直だけど便利。 
 
 ## Logging
 
