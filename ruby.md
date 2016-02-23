@@ -1,8 +1,5 @@
 # Ruby
 
-- [matt-morris/has_archive](https://github.com/matt-morris/has_archive)
-  - archive 対象毎に別に archive 用テーブルを作り、archive 時には、そちらに移動させる
-  - restore 時には archive テーブルからデータを読み出し削除し、元のテーブルに書き戻す
 - [arkency/rails_event_store](https://github.com/arkency/rails_event_store/tree/master/lib/rails_event_store)
   - [arkency/ruby_event_store](https://github.com/arkency/ruby_event_store)
 - [rails/actionpack-action_caching](https://github.com/rails/actionpack-action_caching)
@@ -70,3 +67,11 @@
   - service と form を提供
   - 実装は form は virtus, service は特に何もしない（method_missing とかはする）で最低限
   - 小さな generator の実装の参考に
+
+## Archive
+
+- [matt-morris/has_archive](https://github.com/matt-morris/has_archive)
+  - archive 対象毎に別に archive 用テーブルを作り、archive 時には、そちらに移動させる
+  - restore 時には archive テーブルからデータを読み出し削除し、元のテーブルに書き戻す
+- [johnotander/archivable](https://github.com/johnotander/archivable)
+  - テーブルに `archived` カラムを付ける単純なもの。controller の helper を追加したりしているが、あまり特徴が無い。
