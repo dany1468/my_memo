@@ -75,3 +75,11 @@
   - restore 時には archive テーブルからデータを読み出し削除し、元のテーブルに書き戻す
 - [johnotander/archivable](https://github.com/johnotander/archivable)
   - テーブルに `archived` カラムを付ける単純なもの。controller の helper を追加したりしているが、あまり特徴が無い。
+
+## Testing
+
+### Redis
+
+- [brigade/mock_redis](https://github.com/brigade/mock_redis)
+- [guilleiguaran/fakeredis](https://github.com/guilleiguaran/fakeredis)
+  - 実装を比較していないが、両方とも evalsha は無い。transaction 系はある。
