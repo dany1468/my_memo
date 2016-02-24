@@ -83,3 +83,8 @@
 - [brigade/mock_redis](https://github.com/brigade/mock_redis)
 - [guilleiguaran/fakeredis](https://github.com/guilleiguaran/fakeredis)
   - 実装を比較していないが、両方とも evalsha は無い。transaction 系はある。
+
+## Fun
+
+- [johnnyt/cowsay](https://github.com/johnnyt/cowsay)
+  - 渡した文字列を吹きだしの中に入れて ASCII art のキャラクターと一緒にコンソールに出してくれる。面白いなぁ。
