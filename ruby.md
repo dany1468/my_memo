@@ -43,6 +43,7 @@
   - schema.rb に `delayed_jobs` というテーブルがあるが、これは。。。ゴミかな。
 - [girishso/pluck_to_hash](https://github.com/girishso/pluck_to_hash) 
   - pluck の結果を多重配列ではなくて、ちゃんと hash として返してくれる。実装も割りと愚直だけど便利。 
+- [hyperoslo/gamification](https://github.com/hyperoslo/gamification)
 
 ## Logging
 
