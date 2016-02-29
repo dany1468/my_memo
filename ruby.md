@@ -45,6 +45,9 @@
   - pluck の結果を多重配列ではなくて、ちゃんと hash として返してくれる。実装も割りと愚直だけど便利。 
 - [hyperoslo/gamification](https://github.com/hyperoslo/gamification)
 - [FetLife/rollout](https://github.com/FetLife/rollout)
+- [sinsoku/tachikoma_ai](https://github.com/sinsoku/tachikoma_ai)
+  - これは。deppbot がいらなくなってしまう。
+  - `Tachikoma::Application#pull_request` を拡張すればメッセージの内容いじれると知った
 
 ## Logging
 
