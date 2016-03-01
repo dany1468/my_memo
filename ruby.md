@@ -32,6 +32,9 @@
   - `ActionDispatch::Routing::RoutesInspector` を使って `Rails.application.routes.routes` で取得できるルーティング情報から必要な情報を抽出し整形している。
   - 一般的にはフォーマッタを書いて、[CSV](http://qiita.com/ayasuda/items/a2b0c818e8b5efeb44cf) とか [Markdown](http://tkymtk.hatenablog.com/entry/2013/12/22/100706) とかにしてる模様。
   - `ActionDispatch::Routing::RoutesInspector` の使い方として [collect_routes](http://apidock.com/rails/ActionDispatch/Routing/RoutesInspector/collect_routes) を直接呼んでいるのが面白い。
+- [nikkypx/color_route](https://github.com/nikkypx/color_route)
+  - 同じく `ActionDispatch::Routing::RoutesInspector` と `Rails.application.routes.routes` を用いている
+  - 配色は colorize を利用しているようだ
 - [zeisler/active_enumerable](https://github.com/zeisler/active_enumerable)
   - おー、面白い。`Base` で `Enumerable` をいきなり `to_a` しちゃってるように見えるが、それはいいのだろうか。
   - `english_dsl` は、英語なれてしないので名前付けの参考になります。
