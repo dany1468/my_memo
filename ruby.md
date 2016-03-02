@@ -51,6 +51,9 @@
 - [sinsoku/tachikoma_ai](https://github.com/sinsoku/tachikoma_ai)
   - これは。deppbot がいらなくなってしまう。
   - `Tachikoma::Application#pull_request` を拡張すればメッセージの内容いじれると知った
+- [byroot/frozen_record](https://github.com/byroot/frozen_record)
+  - YAML をデータベースとして AR のように検索や読み出しが可能
+  - Scope の実装での criteria の作り方が面白い
 
 ## Logging
 
