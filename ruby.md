@@ -87,6 +87,10 @@
 - [johnotander/archivable](https://github.com/johnotander/archivable)
   - テーブルに `archived` カラムを付ける単純なもの。controller の helper を追加したりしているが、あまり特徴が無い。
 
+## RDB
+
+- [taskrabbit/makara](https://github.com/taskrabbit/makara)
+
 ## Testing
 
 ### Redis
