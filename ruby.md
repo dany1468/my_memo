@@ -91,6 +91,10 @@
 
 - [taskrabbit/makara](https://github.com/taskrabbit/makara)
 
+### seeds
+
+- [bpardee/data_seeder](https://github.com/bpardee/data_seeder)
+
 ## Testing
 
 ### Redis
