@@ -78,6 +78,7 @@
   - service と form を提供
   - 実装は form は virtus, service は特に何もしない（method_missing とかはする）で最低限
   - 小さな generator の実装の参考に
+- [mikenichols/actionizer](https://github.com/mikenichols/actionizer)
 
 ## Archive
 
