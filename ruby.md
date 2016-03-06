@@ -108,3 +108,9 @@
 
 - [johnnyt/cowsay](https://github.com/johnnyt/cowsay)
   - 渡した文字列を吹きだしの中に入れて ASCII art のキャラクターと一緒にコンソールに出してくれる。面白いなぁ。
+
+## Security
+
+- [rubysec/bundler-audit](https://github.com/rubysec/bundler-audit)
+- [chrismo/bundler-advise](https://github.com/chrismo/bundler-advise)
+  - [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
