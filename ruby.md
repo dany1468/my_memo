@@ -98,6 +98,10 @@
 
 ## Testing
 
+### RSpec matcher
+
+- [brigade/db-query-matchers](https://github.com/brigade/db-query-matchers)
+
 ### Redis
 
 - [brigade/mock_redis](https://github.com/brigade/mock_redis)
