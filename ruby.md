@@ -101,6 +101,7 @@
 ### RSpec matcher
 
 - [brigade/db-query-matchers](https://github.com/brigade/db-query-matchers)
+  - クエリの発行回数は `ActiveSupport::Notifications.subscribed(@counter.to_proc, 'sql.active_record'` でカウントしている。`@counter.to_proc` が callback。
 
 ### Redis
 
