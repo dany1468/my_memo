@@ -122,3 +122,4 @@
 ## REST API Client
 
 - [andyjeffries/flexirest](https://github.com/andyjeffries/flexirest)
+- [A-Helberg/active_record-resource](https://github.com/A-Helberg/active_record-resource)
