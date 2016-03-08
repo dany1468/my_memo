@@ -118,3 +118,7 @@
 ## Measurement
 
 - [evanphx/benchmark-ips](https://github.com/evanphx/benchmark-ips)
+
+## REST API Client
+
+- [andyjeffries/flexirest](https://github.com/andyjeffries/flexirest)
