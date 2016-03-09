@@ -128,3 +128,8 @@
 
 - [andyjeffries/flexirest](https://github.com/andyjeffries/flexirest)
 - [A-Helberg/active_record-resource](https://github.com/A-Helberg/active_record-resource)
+
+## Authorization
+
+- [blacklane/can-do](https://github.com/blacklane/can-do)
+  - yaml で development/production のように RAILS_ENV によって feature の on/off を変更できる
