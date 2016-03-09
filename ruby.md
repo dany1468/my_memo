@@ -133,3 +133,8 @@
 
 - [blacklane/can-do](https://github.com/blacklane/can-do)
   - yaml で development/production のように RAILS_ENV によって feature の on/off を変更できる
+
+## AWS
+
+- [namusyaka/dinamo](https://github.com/namusyaka/dinamo)
+  - DynamoDB の ORM
