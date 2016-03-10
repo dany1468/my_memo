@@ -54,6 +54,8 @@
 - [byroot/frozen_record](https://github.com/byroot/frozen_record)
   - YAML をデータベースとして AR のように検索や読み出しが可能
   - Scope の実装での criteria の作り方が面白い
+- [clearwater-rb/clearwater](https://github.com/clearwater-rb/clearwater)
+  - Opal で書くフロントエンドフレームワーク
 
 ## Logging
 
