@@ -56,6 +56,7 @@
   - Scope の実装での criteria の作り方が面白い
 - [clearwater-rb/clearwater](https://github.com/clearwater-rb/clearwater)
   - Opal で書くフロントエンドフレームワーク
+- [jordanmaguire/seed_helper](https://github.com/jordanmaguire/seed_helper)
 
 ## Logging
 
