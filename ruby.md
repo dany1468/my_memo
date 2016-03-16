@@ -141,3 +141,4 @@
 
 - [namusyaka/dinamo](https://github.com/namusyaka/dinamo)
   - DynamoDB の ORM
+- [joker1007/redshift_simple_migrator](https://github.com/joker1007/redshift_simple_migrator)
