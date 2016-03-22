@@ -151,3 +151,9 @@
 - [amatsuda/stateful_enum](https://github.com/amatsuda/stateful_enum)
   - ActiveRecord enum のカラムを利用できる。見た目は AASM に似てる。
   - 設定をオブジェクトに格納する方法が勉強になる。さすが松田さん。
+
+## HTTP Client
+
+- [rest-client/rest-client](https://github.com/rest-client/rest-client)
+  
+
