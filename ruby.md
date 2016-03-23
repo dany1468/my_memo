@@ -60,6 +60,7 @@
 - [lukehorvat/env-dependencies](https://github.com/lukehorvat/env-dependencies)
   - 必要な ENV の設定状態を起動時にチェックする。
   - 簡単な起動時設定の実装参考に。
+- [huacnlee/redis-search](https://github.com/huacnlee/redis-search)
 
 ## Logging
 
@@ -156,4 +157,3 @@
 
 - [rest-client/rest-client](https://github.com/rest-client/rest-client)
   
-
