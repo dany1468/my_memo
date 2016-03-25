@@ -156,4 +156,5 @@
 ## HTTP Client
 
 - [rest-client/rest-client](https://github.com/rest-client/rest-client)
+- [httprb/http](https://github.com/httprb/http)
   
