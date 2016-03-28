@@ -61,6 +61,8 @@
   - 必要な ENV の設定状態を起動時にチェックする。
   - 簡単な起動時設定の実装参考に。
 - [huacnlee/redis-search](https://github.com/huacnlee/redis-search)
+- [farkasity/jekyll-diagrams](https://github.com/farkasity/jekyll-diagrams)
+  - jekyll でダイアグラムを埋め込めるように。blockdiag とかも埋め込めるが、ローカルで実行してという感じ。
 
 ## Logging
 
