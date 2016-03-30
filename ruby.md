@@ -63,6 +63,7 @@
 - [huacnlee/redis-search](https://github.com/huacnlee/redis-search)
 - [farkasity/jekyll-diagrams](https://github.com/farkasity/jekyll-diagrams)
   - jekyll でダイアグラムを埋め込めるように。blockdiag とかも埋め込めるが、ローカルで実行してという感じ。
+- [chaps-io/public_activity](https://github.com/chaps-io/public_activity) 
 
 ## Logging
 
