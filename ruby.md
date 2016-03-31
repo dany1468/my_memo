@@ -7,7 +7,6 @@
 - [r7kamura/rack-json_schema](https://github.com/r7kamura/rack-json_schema)
 - [chadrem/tribe](https://github.com/chadrem/tribe)
   - [chadrem/workers](https://github.com/chadrem/workers)
-- [instructure/switchman](https://github.com/instructure/switchman)
 - [makandra/query_diet](https://github.com/makandra/query_diet)
   - 画面表示のための 1 リクエストで何回 SQL が投げられているかを画面に表示してくれる。
   - widget ぽいのを画面に表示する参考になる。
@@ -101,6 +100,8 @@
 ## RDB
 
 - [taskrabbit/makara](https://github.com/taskrabbit/makara)
+- [instructure/switchman](https://github.com/instructure/switchman)
+- [hirocaster/activerecord-sharding](https://github.com/hirocaster/activerecord-sharding)
 
 ### seeds
 
