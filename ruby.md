@@ -145,6 +145,7 @@
 - [hassox/warden](https://github.com/hassox/warden)
 - [halogenandtoast/monban](https://github.com/halogenandtoast/monban)
 - [binarylogic/authlogic](https://github.com/binarylogic/authlogic)
+- [apotonick/tyrant](https://github.com/apotonick/tyrant)
 
 ## Authorization
 
