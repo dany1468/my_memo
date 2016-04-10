@@ -140,6 +140,12 @@
 - [andyjeffries/flexirest](https://github.com/andyjeffries/flexirest)
 - [A-Helberg/active_record-resource](https://github.com/A-Helberg/active_record-resource)
 
+## Authentication
+
+- [hassox/warden](https://github.com/hassox/warden)
+- [halogenandtoast/monban](https://github.com/halogenandtoast/monban)
+- [binarylogic/authlogic](https://github.com/binarylogic/authlogic)
+
 ## Authorization
 
 - [blacklane/can-do](https://github.com/blacklane/can-do)
