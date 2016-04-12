@@ -1,0 +1,6 @@
+- [翻訳: WebAPI 設計のベストプラクティス - Qiita](http://qiita.com/mserizawa/items/b833e407d89abd21ee72)
+- [「WebAPI 設計のベストプラクティス」に対する所感 - Qiita](http://qiita.com/ryo88c/items/0a3c7861015861026e00)
+- [Web API設計指針を考えた - MMMブログ](http://blog.mmmcorp.co.jp/blog/2015/07/01/web_api_guideline/)
+- [Web API 設計のベストプラクティス集 "Web API Design - Crafting Interfaces that Developers Love"- フリーフォーム フリークアウト](http://d.hatena.ne.jp/cou929_la/20130121/1358776754)
+- [WebAPIでエラーをどう表現すべき？15のサービスを調査してみた - Qiita](http://qiita.com/suin/items/f7ac4de914e9f3f35884)
+- [REST API Design - Resource Modeling - ThoughtWorks](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
