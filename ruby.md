@@ -119,6 +119,7 @@
 - [brigade/mock_redis](https://github.com/brigade/mock_redis)
 - [guilleiguaran/fakeredis](https://github.com/guilleiguaran/fakeredis)
   - 実装を比較していないが、両方とも evalsha は無い。transaction 系はある。
+- [soveran/nest](https://github.com/soveran/nest) 
 
 ## Fun
 
