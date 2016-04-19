@@ -177,6 +177,11 @@
 ## WebSocket
 
 - [NullVoxPopuli/action_cable_client](https://github.com/NullVoxPopuli/action_cable_client)
+
 ## Template
 
 - [soveran/mote](https://github.com/soveran/mote)
+
+## TOML
+
+- [emancu/toml-rb](https://github.com/emancu/toml-rb)
