@@ -174,6 +174,9 @@
 - [rest-client/rest-client](https://github.com/rest-client/rest-client)
 - [httprb/http](https://github.com/httprb/http)
   
+## WebSocket
+
+- [NullVoxPopuli/action_cable_client](https://github.com/NullVoxPopuli/action_cable_client)
 ## Template
 
 - [soveran/mote](https://github.com/soveran/mote)
