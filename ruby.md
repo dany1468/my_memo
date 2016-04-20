@@ -90,6 +90,7 @@
   - 実装は form は virtus, service は特に何もしない（method_missing とかはする）で最低限
   - 小さな generator の実装の参考に
 - [mikenichols/actionizer](https://github.com/mikenichols/actionizer)
+- [andypike/rectify](https://github.com/andypike/rectify)
 
 ## Archive
 
