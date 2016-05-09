@@ -20,3 +20,4 @@ https://gist.github.com/bdotdub/714533
 
 systemd ではなく upstart を使うにいたった背景。今のところはデフォルトは upstart のようなので。
 [Upstart Jobをsystemd Unitに変換する - gihyo.jp](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0358)
+[Ubuntuにおけるinitと起動方法 - kotaroito's notes](http://kotaroito.hatenablog.com/entry/2015/06/20/100240)
