@@ -65,6 +65,8 @@
 - [chaps-io/public_activity](https://github.com/chaps-io/public_activity) 
 - [syro/satz](https://github.com/syro/satz)
   - JSON API つくるやつ
+- [eprothro/perform-later](eprothro/perform-later)
+  - Sidekiq のような非同期ジョブのライブラリをオブジェクトぽく使えるように
 
 ## Logging
 
@@ -174,6 +176,11 @@
 
 - [rest-client/rest-client](https://github.com/rest-client/rest-client)
 - [httprb/http](https://github.com/httprb/http)
+
+### REST Client
+
+- [whichdigital/active-rest-client](https://github.com/whichdigital/active-rest-client)
+- [flexirest/flexirest](https://github.com/flexirest/flexirest)
   
 ## WebSocket
 
