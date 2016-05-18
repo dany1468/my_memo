@@ -67,6 +67,8 @@
   - JSON API つくるやつ
 - [eprothro/perform-later](eprothro/perform-later)
   - Sidekiq のような非同期ジョブのライブラリをオブジェクトぽく使えるように
+- [bbtfr/activerecord-redundancy](https://github.com/bbtfr/activerecord-redundancy)
+  - 関連テーブルのカラムを非正規化するようなケースで使える。
 
 ## Logging
 
