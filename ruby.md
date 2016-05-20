@@ -116,6 +116,8 @@
 
 ## Testing
 
+- [tomykaira/rspec-parameterized](https://github.com/tomykaira/rspec-parameterized)
+
 ### RSpec matcher
 
 - [brigade/db-query-matchers](https://github.com/brigade/db-query-matchers)
