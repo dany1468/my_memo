@@ -69,6 +69,8 @@
   - Sidekiq のような非同期ジョブのライブラリをオブジェクトぽく使えるように
 - [bbtfr/activerecord-redundancy](https://github.com/bbtfr/activerecord-redundancy)
   - 関連テーブルのカラムを非正規化するようなケースで使える。
+- [MartinKoerner/deferred_associations](https://github.com/MartinKoerner/deferred_associations)
+  - has_many/habtm の保存を遅延させる。どういう時使うんだろ。
 
 ## Logging
 
