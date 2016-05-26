@@ -203,3 +203,9 @@
 ## Scraping
 
 - [mdsol/grell](https://github.com/mdsol/grell)
+
+## OAuth
+
+- [intridea/omniauth](https://github.com/intridea/omniauth)
+- [intridea/oauth2/](https://github.com/intridea/oauth2)
+- [intridea/omniauth-oauth2](https://github.com/intridea/omniauth-oauth2)
