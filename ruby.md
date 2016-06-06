@@ -107,6 +107,8 @@
   - restore 時には archive テーブルからデータを読み出し削除し、元のテーブルに書き戻す
 - [johnotander/archivable](https://github.com/johnotander/archivable)
   - テーブルに `archived` カラムを付ける単純なもの。controller の helper を追加したりしているが、あまり特徴が無い。
+- [drexed/active_archive](https://github.com/drexed/active_archive)
+  - `archived_at` カラムを付ける方式
 
 ## RDB
 
