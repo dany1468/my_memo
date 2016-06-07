@@ -99,6 +99,8 @@
 - [andypike/rectify](https://github.com/andypike/rectify)
 - [blaknite/blush](https://github.com/blaknite/blush)
   - ViewModel
+- [NullVoxPopuli/skinny_controllers](https://github.com/NullVoxPopuli/skinny_controllers)
+  - API 用らしい。trailblazer との対比をだしてるのが興味深い
 
 ## Archive
 
