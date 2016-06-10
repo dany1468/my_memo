@@ -114,9 +114,19 @@
 
 ## RDB
 
+### Mutli DB
+
+- [eagletmt/switch_point](https://github.com/eagletmt/switch_point)
 - [taskrabbit/makara](https://github.com/taskrabbit/makara)
 - [instructure/switchman](https://github.com/instructure/switchman)
 - [hirocaster/activerecord-sharding](https://github.com/hirocaster/activerecord-sharding)
+  - シャーディングまでいらない場合には、swith_point が R/W の切り替えと複数DB サポートだけをシンプルにやってくれていて良さそう。一方で switch_point は migration サポートが無いのでそこは別途考える必要あり。
+
+### suspended?
+
+- [runeleaf/acts_as_readonlyable](https://github.com/runeleaf/acts_as_readonlyable)
+- [schoefmann/multi_db](https://github.com/schoefmann/multi_db)
+- [kovyrin/db-charmer](https://github.com/kovyrin/db-charmer)
 
 ### seeds
 
