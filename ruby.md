@@ -117,10 +117,14 @@
 ### Mutli DB
 
 - [eagletmt/switch_point](https://github.com/eagletmt/switch_point)
+  - シャーディングまでいらない場合には、swith_point が R/W の切り替えと複数DB サポートだけをシンプルにやってくれていて良さそう。一方で switch_point は migration サポートが無いのでそこは別途考える必要あり。
 - [taskrabbit/makara](https://github.com/taskrabbit/makara)
 - [instructure/switchman](https://github.com/instructure/switchman)
 - [hirocaster/activerecord-sharding](https://github.com/hirocaster/activerecord-sharding)
-  - シャーディングまでいらない場合には、swith_point が R/W の切り替えと複数DB サポートだけをシンプルにやってくれていて良さそう。一方で switch_point は migration サポートが無いのでそこは別途考える必要あり。
+- [kenn/slavery](https://github.com/kenn/slavery)
+  - 複数DBではなく Master/Slave 切り替えのみ。コード量が少なくていい。
+- [customink/secondbase](https://github.com/customink/secondbase)
+  - Mast/Slave 切り替えではなく複数DB対応のみ。しかも 2 つ目しか対応しない。でもちょっとおもしろい。
 
 ### suspended?
 
