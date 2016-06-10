@@ -125,6 +125,8 @@
   - 複数DBではなく Master/Slave 切り替えのみ。コード量が少なくていい。
 - [customink/secondbase](https://github.com/customink/secondbase)
   - Mast/Slave 切り替えではなく複数DB対応のみ。しかも 2 つ目しか対応しない。でもちょっとおもしろい。
+- [customink/encom_dbs](https://github.com/customink/encom_dbs)
+  - ライブラリではなくサンプルアプリ。establish_connection での切り替えのやり方を示してくれている。migration まであればよかったなぁ。
 
 ### suspended?
 
