@@ -71,6 +71,8 @@
   - 関連テーブルのカラムを非正規化するようなケースで使える。
 - [MartinKoerner/deferred_associations](https://github.com/MartinKoerner/deferred_associations)
   - has_many/habtm の保存を遅延させる。どういう時使うんだろ。
+- [danielpclark/faster_path](https://github.com/danielpclark/faster_path)
+  - Rust で Pathname を爆速化。これはすごいな。
 
 ## Logging
 
