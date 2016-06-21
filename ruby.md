@@ -1,7 +1,5 @@
 # Ruby
 
-- [arkency/rails_event_store](https://github.com/arkency/rails_event_store/tree/master/lib/rails_event_store)
-  - [arkency/ruby_event_store](https://github.com/arkency/ruby_event_store)
 - [rails/actionpack-action_caching](https://github.com/rails/actionpack-action_caching)
 - [typicode/json-server](https://github.com/typicode/json-server)
 - [r7kamura/rack-json_schema](https://github.com/r7kamura/rack-json_schema)
@@ -233,3 +231,9 @@
 - [intridea/omniauth](https://github.com/intridea/omniauth)
 - [intridea/oauth2/](https://github.com/intridea/oauth2)
 - [intridea/omniauth-oauth2](https://github.com/intridea/omniauth-oauth2)
+
+## Event Tracking
+
+- [arkency/rails_event_store](https://github.com/arkency/rails_event_store/tree/master/lib/rails_event_store)
+  - [arkency/ruby_event_store](https://github.com/arkency/ruby_event_store)
+- [ankane/ahoy](https://github.com/ankane/ahoy)
