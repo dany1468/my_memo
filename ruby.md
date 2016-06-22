@@ -71,6 +71,8 @@
   - has_many/habtm の保存を遅延させる。どういう時使うんだろ。
 - [danielpclark/faster_path](https://github.com/danielpclark/faster_path)
   - Rust で Pathname を爆速化。これはすごいな。
+- [gemgento/rails_script](https://github.com/gemgento/rails_script)
+  - controller や page に応じた CoffeeScript をかける。使えそうな予感。
 
 ## Logging
 
