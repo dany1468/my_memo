@@ -238,3 +238,7 @@
 - [arkency/rails_event_store](https://github.com/arkency/rails_event_store/tree/master/lib/rails_event_store)
   - [arkency/ruby_event_store](https://github.com/arkency/ruby_event_store)
 - [ankane/ahoy](https://github.com/ankane/ahoy)
+
+## Enum
+
+- [redding/enumeration](https://github.com/redding/enumeration)
