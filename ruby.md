@@ -242,3 +242,8 @@
 ## Enum
 
 - [redding/enumeration](https://github.com/redding/enumeration)
+
+## Sidekiq
+
+- [Moove-it/sidekiq-scheduler](https://github.com/Moove-it/sidekiq-scheduler)
+- [square/sqeduler](https://github.com/square/sqeduler)
