@@ -169,12 +169,6 @@
 
 - [evanphx/benchmark-ips](https://github.com/evanphx/benchmark-ips)
 
-## REST API Client
-
-- [andyjeffries/flexirest](https://github.com/andyjeffries/flexirest)
-- [A-Helberg/active_record-resource](https://github.com/A-Helberg/active_record-resource)
-- [carwow/restful_resource](https://github.com/carwow/restful_resource)
-
 ## Authentication
 
 - [hassox/warden](https://github.com/hassox/warden)
@@ -206,10 +200,17 @@
 - [rest-client/rest-client](https://github.com/rest-client/rest-client)
 - [httprb/http](https://github.com/httprb/http)
 
+### Faraday
+
+- [envylabs/faraday-detailed_logger](https://github.com/envylabs/faraday-detailed_logger)
+
 ### REST Client
 
 - [whichdigital/active-rest-client](https://github.com/whichdigital/active-rest-client)
 - [flexirest/flexirest](https://github.com/flexirest/flexirest)
+- [andyjeffries/flexirest](https://github.com/andyjeffries/flexirest)
+- [A-Helberg/active_record-resource](https://github.com/A-Helberg/active_record-resource)
+- [carwow/restful_resource](https://github.com/carwow/restful_resource)
   
 ## WebSocket
 
