@@ -196,6 +196,7 @@
   - 設定をオブジェクトに格納する方法が勉強になる。さすが松田さん。
 - [Originate/end_state](https://github.com/Originate/end_state)
 - [soveran/micromachine](https://github.com/soveran/micromachine)
+- [sardaukar/strict_machine](https://github.com/sardaukar/strict_machine)
 
 ## HTTP Client
 
