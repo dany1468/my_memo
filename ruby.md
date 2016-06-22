@@ -248,3 +248,4 @@
 
 - [Moove-it/sidekiq-scheduler](https://github.com/Moove-it/sidekiq-scheduler)
 - [square/sqeduler](https://github.com/square/sqeduler)
+- [ccocchi/sidekiq-paquet](https://github.com/ccocchi/sidekiq-paquet)
