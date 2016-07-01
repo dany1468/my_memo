@@ -215,6 +215,7 @@
 - [A-Helberg/active_record-resource](https://github.com/A-Helberg/active_record-resource)
 - [carwow/restful_resource](https://github.com/carwow/restful_resource)
 - [liveh2o/active_remote](https://github.com/liveh2o/active_remote)
+- [shvets/resource_accessor](https://github.com/shvets/resource_accessor)
   
 ## WebSocket
 
