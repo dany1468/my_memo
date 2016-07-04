@@ -248,6 +248,8 @@
 ## Enum
 
 - [redding/enumeration](https://github.com/redding/enumeration)
+- [adzap/active_enum](https://github.com/adzap/active_enum)
+- [beerlington/classy_enum](https://github.com/beerlington/classy_enum)
 
 ## Sidekiq
 
@@ -260,3 +262,12 @@
 - [lyondhill/socket.io-ruby-client](https://github.com/lyondhill/socket.io-ruby-client)
   - handshake もサポートしているので使いやすい
 - [shokai/ruby-socket.io-client-simple](https://github.com/shokai/ruby-socket.io-client-simple)
+
+## Define Attributes
+
+- [solnic/virtus](https://github.com/solnic/virtus)
+- [techscore/easy_model](https://github.com/techscore/easy_model)
+- [kipcole9/attributable](https://github.com/kipcole9/attributable)
+- [joker1007/attr_typecastable](https://github.com/joker1007/attr_typecastable)
+- [dry-rb/dry-types](https://github.com/dry-rb/dry-types)
+  - virtus の solnic さんがメインでやってるようで、virtus 使ってるならこっちが移行先なのかな。
