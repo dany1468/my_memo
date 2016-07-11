@@ -177,6 +177,8 @@
 - [halogenandtoast/monban](https://github.com/halogenandtoast/monban)
 - [binarylogic/authlogic](https://github.com/binarylogic/authlogic)
 - [apotonick/tyrant](https://github.com/apotonick/tyrant)
+- [NoamB/sorcery](https://github.com/NoamB/sorcery)
+  - メンテナ求む状態
 
 ## Authorization
 
