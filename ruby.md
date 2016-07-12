@@ -258,6 +258,7 @@
 - [Moove-it/sidekiq-scheduler](https://github.com/Moove-it/sidekiq-scheduler)
 - [square/sqeduler](https://github.com/square/sqeduler)
 - [ccocchi/sidekiq-paquet](https://github.com/ccocchi/sidekiq-paquet)
+- [TEA-ebook/sidekiq-reliable-fetch](https://github.com/TEA-ebook/sidekiq-reliable-fetch)
 
 ## SocketIO Client
 
