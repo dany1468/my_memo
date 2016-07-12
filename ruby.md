@@ -74,6 +74,12 @@
 - [gemgento/rails_script](https://github.com/gemgento/rails_script)
   - controller や page に応じた CoffeeScript をかける。使えそうな予感。
 
+## Rails
+
+### Controller
+
+- [asakusarb/action_args](https://github.com/asakusarb/action_args)
+
 ## Logging
 
 - [rocketjob/rails_semantic_logger](https://github.com/rocketjob/rails_semantic_logger)
