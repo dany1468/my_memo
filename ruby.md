@@ -73,6 +73,8 @@
   - Rust で Pathname を爆速化。これはすごいな。
 - [gemgento/rails_script](https://github.com/gemgento/rails_script)
   - controller や page に応じた CoffeeScript をかける。使えそうな予感。
+- [sorentwo/readthis](https://github.com/sorentwo/readthis)
+  - ActiveSupport の Cache 互換で Redis 利用のものに
 
 ## Rails
 
