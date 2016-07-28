@@ -131,6 +131,7 @@
 - [taskrabbit/makara](https://github.com/taskrabbit/makara)
 - [instructure/switchman](https://github.com/instructure/switchman)
 - [hirocaster/activerecord-sharding](https://github.com/hirocaster/activerecord-sharding)
+- [Smarre/multi_ar](https://github.com/Smarre/multi_ar)
 - [kenn/slavery](https://github.com/kenn/slavery)
   - 複数DBではなく Master/Slave 切り替えのみ。コード量が少なくていい。
 - [customink/secondbase](https://github.com/customink/secondbase)
