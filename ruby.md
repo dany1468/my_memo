@@ -121,6 +121,7 @@
   - テーブルに `archived` カラムを付ける単純なもの。controller の helper を追加したりしているが、あまり特徴が無い。
 - [drexed/active_archive](https://github.com/drexed/active_archive)
   - `archived_at` カラムを付ける方式
+- [firmafon/archiving](https://github.com/firmafon/archiving)
 
 ## RDB
 
