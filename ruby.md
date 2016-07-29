@@ -209,6 +209,8 @@
 - [soveran/micromachine](https://github.com/soveran/micromachine)
 - [sardaukar/strict_machine](https://github.com/sardaukar/strict_machine)
 - [versus-systems/end_state](https://github.com/versus-systems/end_state)
+- [mnelson/stator](https://github.com/mnelson/stator)
+  - alias とか validates とか便利そう
 
 ## HTTP Client
 
