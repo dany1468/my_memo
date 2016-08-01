@@ -140,7 +140,7 @@
 - [customink/encom_dbs](https://github.com/customink/encom_dbs)
   - ライブラリではなくサンプルアプリ。establish_connection での切り替えのやり方を示してくれている。migration まであればよかったなぁ。
 
-### suspended?
+#### suspended?
 
 - [runeleaf/acts_as_readonlyable](https://github.com/runeleaf/acts_as_readonlyable)
 - [schoefmann/multi_db](https://github.com/schoefmann/multi_db)
@@ -149,6 +149,10 @@
 ### seeds
 
 - [bpardee/data_seeder](https://github.com/bpardee/data_seeder)
+
+### Reconnect
+
+- [winebarrel/activerecord-mysql-reconnect](https://github.com/winebarrel/activerecord-mysql-reconnect)
 
 ## Testing
 
