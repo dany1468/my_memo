@@ -157,6 +157,7 @@
 ## Testing
 
 - [tomykaira/rspec-parameterized](https://github.com/tomykaira/rspec-parameterized)
+- [nulldb/nulldb](https://github.com/nulldb/nulldb)
 
 ### RSpec matcher
 
