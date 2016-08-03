@@ -82,6 +82,10 @@
 
 - [asakusarb/action_args](https://github.com/asakusarb/action_args)
 
+### Seed
+
+- [vigetlabs/sprig](https://github.com/vigetlabs/sprig)
+
 ## Logging
 
 - [rocketjob/rails_semantic_logger](https://github.com/rocketjob/rails_semantic_logger)
