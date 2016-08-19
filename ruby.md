@@ -48,9 +48,6 @@
 - [sinsoku/tachikoma_ai](https://github.com/sinsoku/tachikoma_ai)
   - これは。deppbot がいらなくなってしまう。
   - `Tachikoma::Application#pull_request` を拡張すればメッセージの内容いじれると知った
-- [byroot/frozen_record](https://github.com/byroot/frozen_record)
-  - YAML をデータベースとして AR のように検索や読み出しが可能
-  - Scope の実装での criteria の作り方が面白い
 - [clearwater-rb/clearwater](https://github.com/clearwater-rb/clearwater)
   - Opal で書くフロントエンドフレームワーク
 - [jordanmaguire/seed_helper](https://github.com/jordanmaguire/seed_helper)
@@ -295,3 +292,11 @@
 - [joker1007/attr_typecastable](https://github.com/joker1007/attr_typecastable)
 - [dry-rb/dry-types](https://github.com/dry-rb/dry-types)
   - virtus の solnic さんがメインでやってるようで、virtus 使ってるならこっちが移行先なのかな。
+
+## ActiveRecord like datasource
+
+- [byroot/frozen_record](https://github.com/byroot/frozen_record)
+  - YAML をデータベースとして AR のように検索や読み出しが可能
+  - Scope の実装での criteria の作り方が面白い
+- [zilkey/active_hash](https://github.com/zilkey/active_hash)
+  
