@@ -209,10 +209,13 @@
 
 ### CloudSearch
 
+#### aws-sdk を利用
 - [awslabs/cloudsearchable](https://github.com/awslabs/cloudsearchable)
-- [spokesoftware/aws_cloud_search](https://github.com/spokesoftware/aws_cloud_search)
 - [tsuwatch/nazrin](https://github.com/tsuwatch/nazrin)
 - [47colborne/cloud-sesame](https://github.com/47colborne/cloud-sesame)
+
+#### aws-sdk を利用しない
+- [spokesoftware/aws_cloud_search](https://github.com/spokesoftware/aws_cloud_search)
 - [wellbredgrapefruit/asari](https://github.com/wellbredgrapefruit/asari)
 - [willian/cloud_search](https://github.com/willian/cloud_search)
 
