@@ -207,6 +207,13 @@
   - DynamoDB の ORM
 - [joker1007/redshift_simple_migrator](https://github.com/joker1007/redshift_simple_migrator)
 
+### CloudSearch
+
+- [awslabs/cloudsearchable](https://github.com/awslabs/cloudsearchable)
+- [spokesoftware/aws_cloud_search](https://github.com/spokesoftware/aws_cloud_search)
+- [tsuwatch/nazrin](https://github.com/tsuwatch/nazrin)
+- [47colborne/cloud-sesame](https://github.com/47colborne/cloud-sesame)
+
 ## State Machine
 
 - [amatsuda/stateful_enum](https://github.com/amatsuda/stateful_enum)
