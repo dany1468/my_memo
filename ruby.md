@@ -312,3 +312,7 @@
   - Scope の実装での criteria の作り方が面白い
 - [zilkey/active_hash](https://github.com/zilkey/active_hash)
   
+## Sidekiq
+
+- [vireshas/sidekiq-addons](https://github.com/vireshas/sidekiq-addons)
+- [seven1m/honcho](https://github.com/seven1m/honcho)
