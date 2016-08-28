@@ -72,6 +72,7 @@
   - controller や page に応じた CoffeeScript をかける。使えそうな予感。
 - [sorentwo/readthis](https://github.com/sorentwo/readthis)
   - ActiveSupport の Cache 互換で Redis 利用のものに
+- [queues.io/](http://queues.io/)
 
 ## Rails
 
