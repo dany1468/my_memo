@@ -73,6 +73,8 @@
 - [sorentwo/readthis](https://github.com/sorentwo/readthis)
   - ActiveSupport の Cache 互換で Redis 利用のものに
 - [queues.io/](http://queues.io/)
+- [nicksieger/multipart-post](https://github.com/nicksieger/multipart-post)
+  - aws-sdk が rest_client をやめてこっちにしたので気になった。
 
 ## Rails
 
