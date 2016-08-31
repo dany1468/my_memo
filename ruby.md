@@ -75,6 +75,7 @@
 - [queues.io/](http://queues.io/)
 - [nicksieger/multipart-post](https://github.com/nicksieger/multipart-post)
   - aws-sdk が rest_client をやめてこっちにしたので気になった。
+- [nalabjp/mysql_import](https://github.com/nalabjp/mysql_import)
 
 ## Rails
 
