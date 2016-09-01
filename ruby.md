@@ -320,3 +320,11 @@
 
 - [vireshas/sidekiq-addons](https://github.com/vireshas/sidekiq-addons)
 - [seven1m/honcho](https://github.com/seven1m/honcho)
+
+## Testing
+
+### JSON
+
+- [r7kamura/rspec-json_matcher](https://github.com/r7kamura/rspec-json_matcher#examplea)
+- [thoughtbot/json_matchers](https://github.com/thoughtbot/json_matchers)
+- [collectiveidea/json_spec](https://github.com/collectiveidea/json_spec)
