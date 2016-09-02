@@ -328,3 +328,9 @@
 - [r7kamura/rspec-json_matcher](https://github.com/r7kamura/rspec-json_matcher#examplea)
 - [thoughtbot/json_matchers](https://github.com/thoughtbot/json_matchers)
 - [collectiveidea/json_spec](https://github.com/collectiveidea/json_spec)
+
+## Time
+
+- [peleteiro/ruby-duration](https://github.com/peleteiro/ruby-duration)
+  - 時間の量を扱う
+ 
