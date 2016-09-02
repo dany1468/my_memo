@@ -4,3 +4,4 @@
 - [Web API 設計のベストプラクティス集 "Web API Design - Crafting Interfaces that Developers Love"- フリーフォーム フリークアウト](http://d.hatena.ne.jp/cou929_la/20130121/1358776754)
 - [WebAPIでエラーをどう表現すべき？15のサービスを調査してみた - Qiita](http://qiita.com/suin/items/f7ac4de914e9f3f35884)
 - [REST API Design - Resource Modeling - ThoughtWorks](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
+- [RESTfulなWeb APIを設計するときに考えること - Qiita](http://qiita.com/shrkw/items/c6123ca25981e44a3d82)
