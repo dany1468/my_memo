@@ -252,6 +252,7 @@
 - [carwow/restful_resource](https://github.com/carwow/restful_resource)
 - [liveh2o/active_remote](https://github.com/liveh2o/active_remote)
 - [shvets/resource_accessor](https://github.com/shvets/resource_accessor)
+- [local-ch/lhs](https://github.com/local-ch/lhs)
   
 ## WebSocket
 
