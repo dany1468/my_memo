@@ -335,3 +335,7 @@
 - [peleteiro/ruby-duration](https://github.com/peleteiro/ruby-duration)
   - 時間の量を扱う
  
+## Configuration
+
+- [beatrichartz/configurations](https://github.com/beatrichartz/configurations)
+- [lukeredpath/simpleconfig](https://github.com/lukeredpath/simpleconfig)
