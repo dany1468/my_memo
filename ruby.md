@@ -76,6 +76,11 @@
 - [nicksieger/multipart-post](https://github.com/nicksieger/multipart-post)
   - aws-sdk が rest_client をやめてこっちにしたので気になった。
 - [nalabjp/mysql_import](https://github.com/nalabjp/mysql_import)
+- [wyhaines/scrawls](https://github.com/wyhaines/scrawls)
+  - RubyKaigi2016 で発表のあった、シンプルな Web サーバー
+- [globalize/globalize](https://github.com/globalize/globalize)  
+- [floraison/flor](https://github.com/floraison/flor)
+  - workflow engine らしい。ちょっと見てみたい。
 
 ## Rails
 
