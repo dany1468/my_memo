@@ -228,6 +228,10 @@
 - [wellbredgrapefruit/asari](https://github.com/wellbredgrapefruit/asari)
 - [willian/cloud_search](https://github.com/willian/cloud_search)
 
+#### Fake
+
+- [oisinmulvihill/nozama-cloudsearch](https://github.com/oisinmulvihill/nozama-cloudsearch)
+
 ## State Machine
 
 - [amatsuda/stateful_enum](https://github.com/amatsuda/stateful_enum)
