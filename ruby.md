@@ -209,6 +209,7 @@
 
 - [blacklane/can-do](https://github.com/blacklane/can-do)
   - yaml で development/production のように RAILS_ENV によって feature の on/off を変更できる
+- [shouya/cant_cant_cant](https://github.com/shouya/cant_cant_cant)  
 
 ## AWS
 
