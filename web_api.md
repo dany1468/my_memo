@@ -6,3 +6,4 @@
 - [REST API Design - Resource Modeling - ThoughtWorks](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
 - [RESTfulなWeb APIを設計するときに考えること - Qiita](http://qiita.com/shrkw/items/c6123ca25981e44a3d82)
 - [REST API設計者のための有名APIのURL例](http://qiita.com/yu1ro/items/f366ded721f03ae91d96)
+- [RESTful API の設計のキホン](https://speakerdeck.com/cside_/restful-api-falseshe-ji-falsekihon)
