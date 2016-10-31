@@ -45,3 +45,44 @@ echo '最後のテストです'; # シェル型の単一行用のコメント
 /* This is also a comment
  but is written over multiple lines. */
 ```
+
+## 行末のセミコロン
+
+|Ruby|Rust|PHP|Swift|
+|:--|:--|:--|:--|
+|不要<br>1 行で書きたい時は付けることも|式して扱う場合にはつける。<br>付けることが多い|必要|Ruby と同じ|
+
+## Array
+
+### 初期化
+
+#### Ruby
+
+https://docs.ruby-lang.org/ja/latest/class/Array.html
+
+```ruby
+[1, 2, 3]
+Array[1, 2, 3]
+Array.new([1, 2, 3])
+```
+
+Size を指定して初期化
+
+```ruby
+ary = Array.new(3, "foo")
+p ary                     #=> ["foo", "foo", "foo"]
+ary[0].capitalize!
+p ary                     #=> ["Foo", "Foo", "Foo"]  (各要素は同一のオブジェクトである)
+```
+
+```ruby
+ary = Array.new(3) {|i| "foo" }
+p ary                      #=> ["foo", "foo", "foo"]
+ary[0].capitalize!
+p ary                      #=> ["Foo", "foo", "foo"]  (各要素は違うオブジェクトである)
+```
+
+この初期化使ったことなかったな 😳
+
+#### Rust
+
