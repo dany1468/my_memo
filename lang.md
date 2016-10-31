@@ -1,7 +1,13 @@
-- Ruby https://docs.ruby-lang.org/ja/2.3.0/doc/index.html
-- Rust http://rust-lang-ja.org/rust-by-example/
-- PHP https://secure.php.net/manual/ja/index.php
-- Swift https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309
+- Ruby
+  - https://docs.ruby-lang.org/ja/2.3.0/doc/index.html
+- Rust
+  - http://rust-lang-ja.org/rust-by-example/
+- PHP
+  - https://secure.php.net/manual/ja/index.php
+  - [REPL](http://phpepl.herokuapp.com/)
+- Swift
+  - https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309
+  - [REPL](https://swiftlang.ng.bluemix.net/#/repl)
 
 ## Comment
 
