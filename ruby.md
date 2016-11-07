@@ -81,6 +81,8 @@
 - [globalize/globalize](https://github.com/globalize/globalize)  
 - [floraison/flor](https://github.com/floraison/flor)
   - workflow engine らしい。ちょっと見てみたい。
+- [drexed/active_object](https://github.com/drexed/active_object)
+  - Ruby の多くの型の拡張。AS みたい。
 
 ## Rails
 
