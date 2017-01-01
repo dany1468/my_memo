@@ -310,8 +310,9 @@
 ## SocketIO Client
 
 - [lyondhill/socket.io-ruby-client](https://github.com/lyondhill/socket.io-ruby-client)
-  - handshake もサポートしているので使いやすい
+  - 古いバージョン用
 - [shokai/ruby-socket.io-client-simple](https://github.com/shokai/ruby-socket.io-client-simple)
+  - 新しい Socket.io を使うならこちら
 
 ## Define Attributes
 
