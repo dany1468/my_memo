@@ -342,6 +342,11 @@
 - [thoughtbot/json_matchers](https://github.com/thoughtbot/json_matchers)
 - [collectiveidea/json_spec](https://github.com/collectiveidea/json_spec)
 
+### Database Cleaning
+
+- [amatsuda/database_rewinder](https://github.com/amatsuda/database_rewinder)
+- [ebeigarts/database_flusher](https://github.com/ebeigarts/database_flusher)
+
 ## Time
 
 - [peleteiro/ruby-duration](https://github.com/peleteiro/ruby-duration)
