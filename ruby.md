@@ -151,6 +151,7 @@
   - Mast/Slave 切り替えではなく複数DB対応のみ。しかも 2 つ目しか対応しない。でもちょっとおもしろい。
 - [customink/encom_dbs](https://github.com/customink/encom_dbs)
   - ライブラリではなくサンプルアプリ。establish_connection での切り替えのやり方を示してくれている。migration まであればよかったなぁ。
+- [zendesk/active_record_shards](https://github.com/zendesk/active_record_shards)
 
 #### suspended?
 
