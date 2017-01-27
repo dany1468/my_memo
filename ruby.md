@@ -83,7 +83,8 @@
   - workflow engine らしい。ちょっと見てみたい。
 - [drexed/active_object](https://github.com/drexed/active_object)
   - Ruby の多くの型の拡張。AS みたい。
-
+- [producthunt/KittyEvents](https://github.com/producthunt/KittyEvents)
+  - 多段の ActiveJob Worker が走ることであるイベントトリガに対して複数の非同期Worker を実行できる
 ## Rails
 
 ### Controller
