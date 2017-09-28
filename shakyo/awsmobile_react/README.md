@@ -4,4 +4,5 @@
 
 ```
 $ npm install -g create-react-app
+$ yarn global add serve
 ```
