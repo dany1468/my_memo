@@ -8,6 +8,7 @@
     "react-scripts": "1.0.14"
   },
   "scripts": {
+    "prebuild": "aws s3 cp s3://${S3_BUCKET_NAME}/aws-exports.js ./src/aws-exports.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
