@@ -2,6 +2,7 @@ import types from '../constants/';
 
 export const initialState = {
   todos: [],
+  lastDeletedTodo: {},
 };
 
 export const reducer = (state = initialState, action) => {
@@ -27,6 +28,19 @@ export const reducer = (state = initialState, action) => {
             todo.id !== action.id
           )),
         ],
+        lastDeletedTodo: state.todos.find(todo => (
+          todo.id === action.id
+        )),
+      };
+
+    case types.UNDELETE_TODO:
+      return {
+        ...state,
+        todos: [
+          ...state.todos,
+          state.lastDeletedTodo,
+        ],
+        lastDeletedTodo: {},
       };
     default:
       return state;

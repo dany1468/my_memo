@@ -25,6 +25,7 @@ describe('Reducer', () => {
             text: todoText,
           },
         ],
+        lastDeletedTodo: {},
       };
 
       expect(reducer(undefined, action)).toEqual(expectedState);
@@ -49,6 +50,50 @@ describe('Reducer', () => {
 
       const expectedState = {
         todos: [],
+        lastDeletedTodo: {
+          id: 1,
+          text: todoText,
+        },
+      };
+
+      expect(reducer(startingState, action)).toEqual(expectedState);
+    });
+  });
+
+  describe('Undelete todo', () => {
+    it('Should return the correct state', () => {
+      const deletedTodoText = 'last deleted';
+
+      const startingState = {
+        todos: [
+          {
+            id: 2,
+            text: todoText,
+          },
+        ],
+        lastDeletedTodo: {
+          id: 1,
+          text: deletedTodoText,
+        },
+      };
+
+      const action = {
+        type: types.UNDELETE_TODO,
+        id: 1,
+      };
+
+      const expectedState = {
+        todos: [
+          {
+            id: 2,
+            text: todoText,
+          },
+          {
+            id: 1,
+            text: deletedTodoText,
+          },
+        ],
+        lastDeletedTodo: {},
       };
 
       expect(reducer(startingState, action)).toEqual(expectedState);
